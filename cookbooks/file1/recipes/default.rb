@@ -7,5 +7,5 @@
 # All rights reserved - Do Not Redistribute
 #
 file "/tmp/abc" do
-content "hello..hi..how are yoy divya..
+content "hello..hi..how are yoy divya."
 end
